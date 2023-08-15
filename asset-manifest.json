@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/porto-folio/static/css/main.907e07c4.css",
+    "main.js": "/porto-folio/static/js/main.ab8d3455.js",
+    "static/media/CV ATS RONALDO FERNANDUS.pdf": "/porto-folio/static/media/CV ATS RONALDO FERNANDUS.4c0cc81fd43e99a14d58.pdf",
+    "index.html": "/porto-folio/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.907e07c4.css",
+    "static/js/main.ab8d3455.js"
+  ]
+}

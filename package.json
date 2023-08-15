@@ -1,6 +1,8 @@
 {
+  "homepage": "https://ronaldofernandus.github.io/porto-folio",
   "name": "my-react-app",
   "version": "0.1.0",
+  "main": "index.js",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -32,6 +34,8 @@
     "vite": "^4.1.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
